@@ -77,3 +77,16 @@
     margin-bottom: 1rem;
     font-weight: bold;
 }
+
+@media (max-width: 620px){
+    .title{
+        font-size: 3rem;
+    }
+    .main h2{
+        font-size: 1.75rem;
+    }
+    .main{
+        width: 80%;
+        min-height: 250px;
+    }
+}
