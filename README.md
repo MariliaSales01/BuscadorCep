@@ -7,17 +7,16 @@ Enquanto estudo assuntos no curso, decidi usar em um projeto particular para apr
   * React Native
   
 ## Dependências necessárias ✅
-  * @expo/metro-runtime - Versão: "~3.1.3"
-  * @react-navigation/native - Versão: "^6.1.17"
-  * @react-navigation/native-stack - Versão: "^6.9.26"
-  * expo - Versão: "~50.0.14"
-  * react-native-animatable - Versão: "^1.4.0"
-  * react-native-safe-area-context - Versão:"^4.9.0"
-  * react-native-screens - Versão:"^3.30.1"
-  * react-native-web - Versão: "~0.19.6"
-  * typescript- Versão: "^5.3.0"
-  * native-base- Versão: "^3.4.28"
-  * react-hook-form- Versão: "^7.51.3"
+  * axios: "^1.6.8"
+  * @testing-library/jest-dom: "^5.17.0"
+   * @testing-library/react: "^13.4.0"
+   * @testing-library/user-event": "^13.5.0"
+
+   * react: "^18.3.1"
+   * react-dom: "^18.3.1"
+  *  react-icons: "^5.2.1"
+   * react-scripts: "5.0.1"
+   * web-vitals: "^2.1.4"
 
 ## Como rodar a aplicação ✅ 
   npm start
