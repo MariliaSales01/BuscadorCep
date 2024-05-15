@@ -23,4 +23,4 @@ Enquanto estudo assuntos no curso, decidi usar em um projeto particular para apr
   
 ## Creditos ✔️
 
-[Sujeito programador]([https://www.youtube.com/watch?v=Vd3zC-CX34A&t=2841s](https://www.youtube.com/watch?v=oy4cbqE1_qc))
+[Sujeito programador](https://www.youtube.com/watch?v=Vd3zC-CX34A&t=2841s)
